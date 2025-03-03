@@ -1,0 +1,6 @@
+name: first_class
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - pytest
