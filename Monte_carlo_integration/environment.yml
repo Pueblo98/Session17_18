@@ -1,0 +1,7 @@
+name: Monte Carlo Integration
+channels:
+  - conda-forge
+dependncies:
+  - pip
+  - numpy
+  - matplotlib.pyplot
